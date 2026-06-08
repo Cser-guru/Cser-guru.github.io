@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cser-guru.github.io
 
 A simple static website repository for the Cser Guru personal or project site.
@@ -33,3 +34,6 @@ git clone https://github.com/Cser-guru/Cser-guru.github.io.git
 ## License
 
 This repository is provided as-is with no specific license.
+=======
+
+>>>>>>> 3c998e5df319cee3c9dc54ddf868831e7fc5e5d6
